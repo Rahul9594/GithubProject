@@ -1,1 +1,1 @@
-# GithubProject
+# Coronavirus Detector
